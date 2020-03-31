@@ -4,7 +4,7 @@
 #
 Name     : R-RNetCDF
 Version  : 2.1.1
-Release  : 2
+Release  : 3
 URL      : https://cran.r-project.org/src/contrib/RNetCDF_2.1-1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/RNetCDF_2.1-1.tar.gz
 Summary  : Interface to 'NetCDF' Datasets
@@ -17,11 +17,9 @@ BuildRequires : buildreq-R
 BuildRequires : netcdf-dev
 
 %description
-# RNetCDF - Interface to NetCDF Datasets for R
-RNetCDF provides an R interface to the NetCDF file format designed by Unidata
 for efficient storage of array-oriented scientific data and descriptions.
-This R interface is closely based on the C API of the NetCDF4 library,
-and it includes calendar conversions from the Unidata UDUNITS2 library.
+  Most capabilities of 'NetCDF' version 4 are supported. Optional conversions
+  of time units are enabled by 'UDUNITS' version 2, also from Unidata.
 
 %package lib
 Summary: lib components for the R-RNetCDF package.
@@ -39,10 +37,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1580946411
+export SOURCE_DATE_EPOCH=1585692308
 
 %install
-export SOURCE_DATE_EPOCH=1580946411
+export SOURCE_DATE_EPOCH=1585692308
 rm -rf %{buildroot}
 export LANG=C.UTF-8
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
