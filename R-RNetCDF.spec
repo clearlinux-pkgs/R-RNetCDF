@@ -4,7 +4,7 @@
 #
 Name     : R-RNetCDF
 Version  : 2.3.1
-Release  : 4
+Release  : 5
 URL      : https://cran.r-project.org/src/contrib/RNetCDF_2.3-1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/RNetCDF_2.3-1.tar.gz
 Summary  : Interface to 'NetCDF' Datasets
@@ -36,10 +36,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1589417097
+export SOURCE_DATE_EPOCH=1589523978
 
 %install
-export SOURCE_DATE_EPOCH=1589417097
+export SOURCE_DATE_EPOCH=1589523978
 rm -rf %{buildroot}
 export LANG=C.UTF-8
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
