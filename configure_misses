@@ -1,9 +1,9 @@
-Configure miss: netcdf_par.h
+Configure miss: library containing XML_ErrorString
+Configure miss: library containing XML_ErrorString
 Configure miss: library containing XML_ErrorString
 Configure miss: library containing ut_read_xml
-Configure miss: netcdf_par.h
-Configure miss: library containing XML_ErrorString
+Configure miss: library containing ut_read_xml
 Configure miss: library containing ut_read_xml
 Configure miss: netcdf_par.h
-Configure miss: library containing XML_ErrorString
-Configure miss: library containing ut_read_xml
+Configure miss: netcdf_par.h
+Configure miss: netcdf_par.h
