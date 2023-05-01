@@ -4,7 +4,7 @@
 #
 Name     : R-RNetCDF
 Version  : 2.6.1
-Release  : 26
+Release  : 27
 URL      : https://cran.r-project.org/src/contrib/RNetCDF_2.6-1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/RNetCDF_2.6-1.tar.gz
 Summary  : Interface to 'NetCDF' Datasets
