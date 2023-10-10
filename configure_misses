@@ -1,9 +1,21 @@
+Configure miss: MPI_Init
+Configure miss: MPI_Init
+Configure miss: MPI_Init
+Configure miss: gcc options needed to detect all undeclared functions
+Configure miss: gcc options needed to detect all undeclared functions
+Configure miss: gcc options needed to detect all undeclared functions
 Configure miss: library containing XML_ErrorString
 Configure miss: library containing XML_ErrorString
 Configure miss: library containing XML_ErrorString
 Configure miss: library containing ut_read_xml
 Configure miss: library containing ut_read_xml
 Configure miss: library containing ut_read_xml
-Configure miss: netcdf_par.h
-Configure miss: netcdf_par.h
-Configure miss: netcdf_par.h
+Configure miss: mpi.h
+Configure miss: mpi.h
+Configure miss: mpi.h
+Configure miss: whether _WIN32 is declared
+Configure miss: whether _WIN32 is declared
+Configure miss: whether _WIN32 is declared
+Configure miss: whether __APPLE__ is declared
+Configure miss: whether __APPLE__ is declared
+Configure miss: whether __APPLE__ is declared
