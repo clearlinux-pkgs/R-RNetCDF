@@ -5,8 +5,6 @@ Configure miss: gcc options needed to detect all undeclared functions
 Configure miss: gcc options needed to detect all undeclared functions
 Configure miss: gcc options needed to detect all undeclared functions
 Configure miss: library containing XML_ErrorString
-Configure miss: library containing XML_ErrorString
-Configure miss: library containing XML_ErrorString
 Configure miss: library containing ut_read_xml
 Configure miss: library containing ut_read_xml
 Configure miss: library containing ut_read_xml
